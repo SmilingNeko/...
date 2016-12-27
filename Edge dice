@@ -1,0 +1,31 @@
+// Edge of the Empire RPG Dice Mechanics
+
+//
+
+// copyright pug games 2013
+
+// Script created by Roll20 user Konrad J.
+
+// help with Dice specs by Roll20 users Alicia G. and Blake the Lake
+
+// dice graphics hosted by Roll20 user Alicia G. at galacticcampaigns.com
+
+// dice graphics borrowed from the awesome google+ hangouts EotE Dice App
+
+//
+
+// !eed log on|off  // outputs dice rolled to the chat window if "on", nothing if "off"
+
+// !eed graphics on|off|s|m|l  //shows dice rolled as graphic, small, medium, or large if "on" or as text if "off"
+
+// !eed #b #g #y #blk #p #r #w
+
+// !eed test // this will output every side of every die to the chat window
+
+//
+
+// you only need to specify the dice to roll, in any order
+
+// b is blue, g is green, y is yellow, blk is black, p is purple, r is red, w is white
+
+// currently no error checking so you can break it if you type in unsupported arguments
